@@ -1,0 +1,9 @@
+.app-container {
+  background-color: #fff;
+  width: 80vw;
+  margin: 20px auto;
+  padding: 5px;
+  border: 5px solid black;
+  /* display: flex;
+  justify-content: center; */
+}
